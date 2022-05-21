@@ -57,7 +57,7 @@ pollutant: Type of pollutant emitted. In order to follow the same standard, you 
 
 Este compaticion fue realizada por:
 
-Victor Rodriguez
+Imunky
 
 Luis Rodriguez
 
